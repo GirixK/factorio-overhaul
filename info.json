@@ -1,0 +1,11 @@
+{
+    "name": "giri-overhaul",
+    "version": "0.1.0",
+    "title": "Giri Overhaul",
+    "author": "Girix",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0"
+    ],
+    "description": "Overhaul dn"
+}
